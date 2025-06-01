@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StringUtilities
+comment0.text=\n\ This\ class\ represent\ some\ basic\ String\ object\ utilities\n\n\ @author\ \ (your\ name)\n\ @version\ (today's\ date)\n
+comment1.params=string
+comment1.target=java.lang.String\ getFirstCharacter(java.lang.String)
+comment1.text=\ Returns\ the\ first\ character\ in\ string\n\ \ Precondition\:\ string.length()\ >\=\ 1\ \n
+comment2.params=string
+comment2.target=java.lang.String\ getLastCharacter(java.lang.String)
+comment2.text=\ Returns\ the\ last\ character\ in\ string\n\ \ Precondition\:\ string.length()\ >\=\ 1\ \n
+comment3.params=string
+comment3.target=java.lang.String\ getMiddleCharacter(java.lang.String)
+comment3.text=\ Returns\ the\ middle\ character\ in\ string\n\ \ Precondition\:\ string.length()\ >\=\ 1\ \n
+comment4.params=string
+comment4.target=java.lang.String\ getRandomCharacter(java.lang.String)
+comment4.text=\ Returns\ a\ random\ character\ from\ string\ \n\ \ Precondition\:\ \ string.length()\ >\=\ 1\n
+numComments=5

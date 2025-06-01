@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FootballJerseyNumbers
+comment0.text=\n\ This\ FootballJerseys\ class\ represents\ static\ methods\ that\ determine\n\ possible\ NFL\ jersey\ numbers\ based\ on\ a\ player's\ position\ and\ existing\ team\ numbers\n\n\ @author\ \ \n\ @version\ \n
+comment1.params=position
+comment1.target=int\ getPositionIndex(java.lang.String)
+comment2.params=number\ position
+comment2.target=boolean\ isNumberAllowed(int,\ java.lang.String)
+comment3.params=number\ teamNumbers
+comment3.target=boolean\ isNumberTaken(int,\ int[])
+comment4.params=position\ teamNumbers
+comment4.target=java.util.ArrayList\ possibleNumbers(java.lang.String,\ int[])
+comment5.params=
+comment5.target=void\ displayChart()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DiceNotation
+comment0.text=\n\ This\ class\ simulates\ the\ rolling\ of\ dice\ represented\ \n\ by\ a\ String\ using\ dice\ notation\ (e.g.\ 3d20\ ->\ 3\ dice,\ each\ with\ 20\ sides)\n\n\ @author\ \ \n\ @version\ \n
+comment1.params=faces
+comment1.target=int\ rollDie(int)
+comment1.text=\ \n\ Simulates\ the\ rolling\ of\ a\ single\ die\ with\ faces\ number\ of\ sides\n\ Returns\ a\ random\ integer\ between\ 1\ and\ faces,\ inclusive.\n
+comment2.params=diceNotation
+comment2.target=int\ rollDice(java.lang.String)
+comment2.text=\n\ Simulates\ the\ rolling\ of\ muliple\ dice,\ using\ dice\ notation\n\ Precondition\:\ diceNotation\ is\ a\ valid\ dice\ notation\ in\ the\ format\ of\ NdF,\ where\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ N\ is\ the\ number\ of\ dice\ (an\ integer)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ d\ is\ the\ delimiting\ (separation)\ character\ between\ the\ two\ values\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ F\ is\ the\ number\ of\ faces\ on\ each\ die\ (an\ integer)\n
+comment3.params=string
+comment3.target=int\ parseInt(java.lang.String)
+comment3.text=\ \n\ This\ helper\ method\ is\ provided\ to\ easily\ convert\ a\ String\ to\ an\ int\n\ Precondion\:\ String\ string\ must\ contain\ only\ integer\ values\n
+numComments=4

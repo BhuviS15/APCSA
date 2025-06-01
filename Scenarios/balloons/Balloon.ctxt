@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Balloon
+comment0.text=\n\ A\ balloon\ flows\ from\ bottom\ to\ top.\n\ \n\ @author\ Poul\ Henriksen\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Make\ the\ balloon\ go\ up.\ \n
+comment2.params=
+comment2.target=void\ pop()
+comment2.text=\n\ Pop\ this\ balloon.\n
+numComments=3
