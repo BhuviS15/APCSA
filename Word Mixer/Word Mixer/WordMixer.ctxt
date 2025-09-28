@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WordMixer
+comment0.text=\n\ This\ class\ takes\ a\ string\ array\ (representing\ words\ in\ a\ sentence),\ \n\ and\ mixes\ up\ the\ inside\ letters\ of\ each\ word\ (the\ first\ and\ last\ letters\n\ are\ left\ in\ place).\ The\ words\ themselves\ are\ left\ in\ same\ order\ in\ the\ array.\n\ The\ effect\ is\ to\ produce\ a\ sentence\ that\ is\ still\ 'readable'.\n\ For\ example\:\ "the\ quick\ brown\ fox\ jumped\ over\ the\ lazy\ dog"\n\ could\ become\ "the\ qicuk\ borwn\ fox\ jmupde\ oevr\ the\ lzay\ dog"\n\ Words\ of\ three\ or\ less\ letters\ are\ (by\ definition)\ left\ as\ is.\n\ A\ mixed\ up\ word\ must\ also\ be\ different\ than\ the\ original\ word.\n\ The\ mixed\ up\ letters\ must\ be\ randomly\ ordered,\ meaning\ that\ \n\ generating\ exactly\ the\ same\ results\ each\ time\ is\ not\ allowed.\n\n\ @author\ \ \n\ @version\ \n
+comment1.params=word\ index
+comment1.target=java.lang.String\ removeLetterAtIndex(java.lang.String,\ int)
+comment1.text=\n\ Removes\ the\ character\ in\ word\ at\ position\ index\n
+comment2.params=word
+comment2.target=java.lang.String\ mixUpWord(java.lang.String)
+comment2.text=\n\ Returns\ a\ mixed\ up\ word\ the\ same\ length\ as\ the\ orginal\ word.\n\ The\ first\ and\ last\ letters\ remain\ the\ same.\n\ For\ a\ word\ with\ more\ than\ three\ letters,\ the\ mixed\ up\ word\n\ must\ be\ different\ than\ the\ original\ word.\n\ Returns\ a\ random\ mixed\ up\ word\ each\ time\ the\ method\ is\ called.\n
+comment3.params=words
+comment3.target=java.lang.String[]\ mixItUp(java.lang.String[])
+comment3.text=\n\ Returns\ an\ array\ of\ mixed\ up\ words.\n\ The\ length\ (number\ of\ elements)\ in\ both\ arrays\ are\ the\ same.\n\ The\ word\ order\ in\ both\ arrays\ remains\ the\ same.\n\ Only\ the\ individual\ words\ are\ mixed\ up.\n\ The\ method\ parameter\ words\ array\ must\ remain\ unchanged.\n
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Greep
+comment0.text=\n\ A\ Greep\ is\ an\ alien\ creature\ that\ likes\ to\ collect\ tomatoes.\n\ \n\ @author\ \ Bhuvi\ Singh\n\ @version\ 11/14/2024\n
+comment1.params=ship
+comment1.target=Greep(Ship)
+comment1.text=\n\ Create\ a\ Greep\ with\ its\ home\ space\ ship.\n
+comment2.params=
+comment2.target=java.lang.String\ getAuthorName()
+comment2.text=\n\ This\ method\ specifies\ the\ name\ of\ the\ author\ (for\ display\ on\ the\ result\ board).\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ navigateToShip()
+comment4.text=\n\ Handles\ behavior\ for\ Greeps\ carrying\ tomatoes\ to\ return\ to\ the\ ship.\n
+comment5.params=
+comment5.target=void\ exploreForTomatoes()
+comment5.text=\n\ Handles\ behavior\ for\ Greeps\ not\ carrying\ tomatoes.\n
+comment6.params=
+comment6.target=void\ checkFood()
+comment6.text=\n\ Check\ for\ food\ at\ the\ current\ location\ and\ attempt\ to\ load\ it.\n
+comment7.params=
+comment7.target=boolean\ safeMove()
+comment7.text=\n\ Attempt\ to\ move\ while\ avoiding\ obstacles.\ \n\ @return\ true\ if\ the\ move\ was\ successful,\ false\ if\ blocked.\n
+comment8.params=
+comment8.target=java.lang.String\ getCurrentImage()
+numComments=9

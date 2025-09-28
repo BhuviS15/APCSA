@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Trip
+comment0.text=\n\ This\ Trip\ class\ represents\ .\ .\ .\n\n\ @author\ \ (your\ name)\n\ @version\ (todays\ date)\n
+comment1.params=t\ f
+comment1.target=Trip(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getDuration()
+comment3.params=
+comment3.target=int\ getShortestLayover()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

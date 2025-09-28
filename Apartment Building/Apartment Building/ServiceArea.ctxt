@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ServiceArea
+comment1.params=
+comment1.target=ServiceArea()
+comment2.params=building
+comment2.target=void\ addBuilding(Building)
+comment3.params=
+comment3.target=double\ totalSales()
+numComments=4

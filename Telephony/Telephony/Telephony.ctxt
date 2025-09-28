@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Telephony
+comment0.text=\n\ This\ Telephony\ class\ converts\ a\ phrase\ into\ phonetic\ words\n\ using\ the\ Radiotelephony\ Spelling\ Alphabet\n\n\ @author\ \ (your\ name)\n\ @version\ (todays\ date)\n
+comment1.params=letter
+comment1.target=java.lang.String\ convertLetter(java.lang.String)
+comment1.text=\n\ Translates\ a\ single\ letter\ into\ an\ RSP\ word\n\ (unrecognized\ characters\ should\ return\ an\ empty\ string)\n\ Precondition\:\ letter.length()\ \=\=\ 1\n
+comment2.params=phrase
+comment2.target=java.lang.String[]\ convertPhrase(java.lang.String)
+comment2.text=\n\ Translates\ a\ phrase\ into\ an\ array\ of\ RSP\ words\n\ (unrecognized\ characters\ are\ an\ empty\ string\ array\ element)\n
+numComments=3
