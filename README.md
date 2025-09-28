@@ -1,10 +1,10 @@
 # APCSA Project Archive
 
-This repository contains a comprehensive archive of my work from AP Computer Science A. It showcases over 60 projects ranging from foundational Java exercises to advanced simulations and puzzle solvers. Each folder includes source code, documentation, and test files, organized for clarity and reproducibility.
+This repository contains a comprehensive archive of my work from AP Computer Science A (24-25). It showcases over 60 projects ranging from foundational Java exercises to advanced simulations and puzzle solvers. Each folder includes source code, documentation, and test files, organized for clarity and reproducibility.
 
-## 🗂️ Project Categories
+## Project Categories
 
-### 🧱 Core Java Projects
+### Core Java Projects
 Fundamental exercises in object-oriented programming, data structures, and algorithmic logic.
 
 - Apartment Building
@@ -49,7 +49,7 @@ Fundamental exercises in object-oriented programming, data structures, and algor
 - Word Pair
 - Word Processor
 
-### 🧠 Puzzle & Logic Solvers
+### Puzzle & Logic Solvers
 Projects that involve solving structured problems or puzzles using Java logic and file input/output.
 
 - Numbrix
@@ -60,7 +60,7 @@ Projects that involve solving structured problems or puzzles using Java logic an
 - Wordle
 - Tile Game
 
-### 🎮 Greenfoot Simulations
+### Greenfoot Simulations
 Interactive simulations and games built using the Greenfoot environment, showcasing object interaction, graphics, and event handling.
 
 - Greeps
@@ -71,12 +71,12 @@ Interactive simulations and games built using the Greenfoot environment, showcas
   - Lunar Lander
   - Wombats
 
-### 📊 Data Visualization
+### Data Visualization
 Projects that include graphical output or data plotting using custom panels.
 
 - Mountain Valleys
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 - Object-Oriented Programming (OOP): Classes, inheritance, polymorphism
 - Data Structures: Arrays, ArrayLists
